@@ -1,0 +1,63 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-56228.jpg?w=826&t=st=1683470202~exp=1683470802~hmac=8c3fb68ba77c491352588b41221edfedeaf87c8b309e15a3dfa11adca8c1f0b5');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fa5959;
+    text-align: center;
+  }
+  
+  h1 {
+    font-weight: 500;
+    font-size: 3rem;
+    margin-top: 3rem;
+  }
+  
+  form {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 2rem;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+  }
+  
+  label {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 1rem;
+  }
+  
+  input {
+    width: 100%;
+    height: 2.5rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid;
+    margin-bottom: 1.5rem;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.5rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #result {
+    margin-top: 2rem;
+    font-size: 2rem;
+    font-weight: 500;
+  }
+  
